@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Energy Life</string>
+    <string name="concerts_theater"><![CDATA[Concerts & Theater]]></string>
+    <string name="ev_wth_friends">Events with friends</string>
+    <string name="friends_go">Friends go</string>
+    <string name="latest">Latest</string>
+    <string name="map_location">Map Location</string>
+    <string name="meetup_for_android_developer_s">Meetup for Android Developer\'s</string>
+</resources>
